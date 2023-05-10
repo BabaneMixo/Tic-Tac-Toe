@@ -282,7 +282,6 @@ public class TicTacToe implements ActionListener {
                     }
 
                 }
-
             }
         }
     }
