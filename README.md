@@ -3,7 +3,7 @@
 About this program
 
     This is a multiplayer Tic Tac Toe game that will be a demostration and showcase
-    of my understanding of server-client architacture and the basic Object Orientated Programming knowledge
+    of my understanding of Server-Client Architecture and the basic Object Orientated Programming knowledge
 
 Server responsibilities:
 

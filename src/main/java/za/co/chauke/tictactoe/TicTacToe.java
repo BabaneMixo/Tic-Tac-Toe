@@ -51,7 +51,7 @@ public class TicTacToe implements ActionListener {
 
 
     public void firstTurn() throws InterruptedException {
-        Thread.sleep(2000);
+        Thread.sleep(5000);
         if (random.nextInt(2) == 0) {
             player1_turn = true;
             textField.setText("X turn");
